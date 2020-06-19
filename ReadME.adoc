@@ -8,3 +8,12 @@
 
 Description of the project: challenge .NET code to simulate a game of tennis.
 
+== Techs:
+ASP.NET
+C#
+Razor Web Pages
+CSHTML
+Bootstrap
+JQuery
+API
+
